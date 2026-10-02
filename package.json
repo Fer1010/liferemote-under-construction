@@ -1,0 +1,7 @@
+{
+  "name": "liferemote-under-construction",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo Site estatico sem build"
+  }
+}
